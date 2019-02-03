@@ -1,0 +1,11 @@
+# Applications
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Example one
+
+The first example.
+
+
+## Example two
+The example strikes back.
